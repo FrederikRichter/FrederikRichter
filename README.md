@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @FrederikRichter
-- 👀 I’m interested in writing clean code
-- 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on open source software
+- 🌱 I’m looking to collaborate on open source software
 
 
 <!---
