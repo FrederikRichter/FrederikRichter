@@ -4,6 +4,7 @@
 - [x] Studip Python API (Discontinued, is working pretty nice)
 - [x] Deploy my Blog with Hugo (Content WIP) 
 - [ ] texkasten.nvim (An nvim Plugin to manage a simplistic Zettelkasten with tex Notes)
+- [ ] texkasten.go (go module acting as a lib for texkasten.nvim)
 - [ ] Nix Reverse Deployment Tools
 <!---
 FrederikRichter/FrederikRichter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
