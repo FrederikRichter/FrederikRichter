@@ -1,5 +1,5 @@
 - Hi, I’m @FrederikRichter
-- I am a student @TUBS in Computer Science
+- I am a CS student @TUBS
 
 <!---
 FrederikRichter/FrederikRichter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
